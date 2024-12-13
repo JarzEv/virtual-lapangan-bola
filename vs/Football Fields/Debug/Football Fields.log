@@ -1,0 +1,13 @@
+﻿  glad.c
+  Main.cpp
+C:\Users\ferdi\Downloads\CG_Codes (1)\CG_Demos\vs\Football Fields\Main.cpp(175,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ferdi\Downloads\CG_Codes (1)\CG_Demos\vs\Football Fields\Main.cpp(180,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RenderEngine.cpp
+  Generating Code...
+  LINK : C:\Users\ferdi\Downloads\CG_Codes (1)\CG_Demos\vs\Debug\Football Fields.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_DXT.obj)' or at ''; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(image_helper.obj)' or at ''; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(SOIL.obj)' or at ''; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB '' was not found with 'SOIL.lib(stb_image_aug.obj)' or at ''; linking object as if no debug info
+  Football Fields.vcxproj -> C:\Users\ferdi\Downloads\CG_Codes (1)\CG_Demos\vs\Debug\Football Fields.exe
